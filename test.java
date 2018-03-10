@@ -6,7 +6,6 @@ class test {
          System.out.print("Finally not going to commit this time");
          System.out.print("Okay Still Checking Diff Tool !");
          System.out.print("Master Changing !");
-        
-        
+         System.out.print("Changes in Branch !");
     }
 }
